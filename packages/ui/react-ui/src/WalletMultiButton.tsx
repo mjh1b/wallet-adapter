@@ -90,7 +90,7 @@ export const WalletMultiButton: FC<ButtonProps> = ({ children, ...props }) => {
                     Change wallet
                 </li>
                 <li onClick={disconnect} className="wallet-adapter-dropdown-list-item" role="menuitem">
-                    Disconnect
+                    Disconnects
                 </li>
             </ul>
         </div>
